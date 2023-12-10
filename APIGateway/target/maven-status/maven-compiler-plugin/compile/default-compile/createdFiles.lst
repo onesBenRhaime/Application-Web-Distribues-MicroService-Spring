@@ -1,0 +1,3 @@
+com\esprit\spring\SecurityConfig.class
+com\esprit\spring\SpringCloudConfig.class
+com\esprit\spring\APIGatewayMainApplication.class
